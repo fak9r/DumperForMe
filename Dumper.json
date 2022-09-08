@@ -97,6 +97,8 @@
     "m_fFlags": 260,
     "m_fRoundStartTime": 76,
     "m_fWarmupPeriodEnd": 36,
+    "m_fRoundStartTime": 76,
+    "m_fWarmupPeriodEnd": 36,
     "m_flC4Blow": 10656,
     "m_flCustomAutoExposureMax": 2528,
     "m_flCustomAutoExposureMin": 2524,
